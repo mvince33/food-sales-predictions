@@ -1,7 +1,7 @@
 # Boost sales by focusing on products and stores that are underperforming.
 ## Data was analyzed to see which products and outlets were generating the most sales. A machine learing model was constructed to predict sales at on outlet based on aspects of the outlet and products sold.
 
-**Author**: 
+**Michael Vincent**: 
 
 ### Business problem:
 
