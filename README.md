@@ -1,11 +1,4 @@
-# food-sales-predictions
-Sales prediction project through Coding Dojo
-
-First part of the project is to load data using Pandas
-
-Template for README below
-
-# Title that recommends an action
+# Boost sales thro
 ## Subtitle describing the analysis 
 
 **Author**: 
