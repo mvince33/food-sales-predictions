@@ -1,11 +1,11 @@
 # Boost sales by focusing on products and stores that are underperforming.
-## Data was analyzed to see which products and outlets were generating the most sales. A machine learing model was constructed to predict sales at on outlet based on aspects of the outlet and products sold.
+## Data visualizations show trends in outlets sales. A machine learning model predicts sales at each outlet.
 
 **Michael Vincent**: 
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+Data was analyzed to see which outlets and 
 
 
 ### Data:
