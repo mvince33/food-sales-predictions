@@ -9,8 +9,8 @@ Data was analyzed to see which outlets and products were generating the most sal
 
 
 ### Data:
-[data](https://docs.google.com/spreadsheets/d/e/2PACX-1vRNQ2yuuZKv8cbgh4i4BHnxryjbO8BUviZeIPvva0lIUS23NLolb67KroUgKUOLljhQwxTJZSZrhnyY/pub?output=csv)
-Data can include source and high-level description (e.g. # obs)
+The data can be downloaded [here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vRNQ2yuuZKv8cbgh4i4BHnxryjbO8BUviZeIPvva0lIUS23NLolb67KroUgKUOLljhQwxTJZSZrhnyY/pub?output=csv)
+There are 8500 data points with twelve features including price, type of item, 
 
 
 ## Methods
