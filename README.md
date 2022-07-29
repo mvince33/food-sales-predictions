@@ -24,12 +24,14 @@ There are 8523 data points with twelve features including price, and the type of
 ## Results
 
 #### Average sales by outlet
-![sample image](sales_by_outlet.jpg)
+![](sales_by_outlet.jpg)
 
-> Sentence about visualization.
+> Sales from "Supermarket Type1" are significantly lower than sales from other outlets.
 
 #### Average sales by item type
 ![](sales_by_item_type.jpg)
+
+> "Seafood" and "Breakfast foods" are two item types that are generating lower than average sales.
 
 ## Model
 
