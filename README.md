@@ -23,17 +23,13 @@ There are 8523 data points with twelve features including price, and the type of
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
-
-.markdown-block{
-  background: white
 #### Visual 1 Title
-![sample image](sales_by_outlet.png)
+![sample image](sales_by_outlet.jpg)
 
 > Sentence about visualization.
 
 #### Visual 2 Title
-}
+
 ## Model
 
 The random forest performed better than the linear regression so we chose that as our final model. It was able to account for about 60% of the variance in the data. It had a mean absolute error of about $750, so we expect a prediction of sales from a typical outlet to be off by about $750. The root mean squared error was higher at about $1075 which suggests our model was making some large errors.
