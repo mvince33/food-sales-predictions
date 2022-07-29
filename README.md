@@ -29,7 +29,7 @@ There are 8523 data points with twelve features including price, and the type of
 > Sentence about visualization.
 
 #### Average sales by item type
-![](sales_by_item_type.jpp)
+![](sales_by_item_type.jpg)
 
 ## Model
 
