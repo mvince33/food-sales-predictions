@@ -10,12 +10,16 @@ Data was analyzed to see which outlets and products were generating the most sal
 
 ### Data:
 The data can be downloaded [here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vRNQ2yuuZKv8cbgh4i4BHnxryjbO8BUviZeIPvva0lIUS23NLolb67KroUgKUOLljhQwxTJZSZrhnyY/pub?output=csv)
-There are 8500 data points with twelve features including price, type of item, 
-
+There are 8523 data points with twelve features including price, and the type of item sold, and type of outlet it was sold at.
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
-- 
+- Inconsistent labels fixed for descriptions of fat content.
+- Missing values of weights were filled with the average weight of the item sold. This was justified on the fact that the average weight of each class of item was similar.
+- Missing values of the outlet size were filled with the value 'missing.' 
+- Visualizations were constructed to relate sales with item type and outlet type.
+- Categorical data was encoded into numerical data for data modelling.
+- A linear regression model was contstructed.
+- A random forest model was constructed.
 
 ## Results
 
