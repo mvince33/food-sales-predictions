@@ -35,24 +35,22 @@ There are 8523 data points with twelve features including price, and the type of
 
 ## Model
 
-Describe your final model
-
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
+The random forest performed better than the linear regression so we chose that as our final model. It was able to account for about 60% of the variance in the data. It had a mean absolute error of about $750, so we expect a prediction of sales from a typical outlet to be off by about $750. The root mean squared error was higher at about $1075 which suggests our model was making some large errors.
 
 ## Recommendations:
 
-More of your own text here
+The outlet "Supermarket Type1" is significantly underperforming on average compared to the other types of outlets. We reccomend exploring why this is the case and taking steps to boost sales at these outlets.
+
+The item types "seafood", "breakfast", and "starchy foods" are among those with the lowest sales. Perhaps some promotions among these item types could generate more revenue.
 
 
 ## Limitations & Next Steps
 
-More of your own text here
+Since our model is only accounting for 60% of the variation in the data, we would like to gather more data in order to produce a more accurate model. 
 
 
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact **michael.vincent@employer.com**
 
