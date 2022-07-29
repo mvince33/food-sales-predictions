@@ -23,12 +23,13 @@ There are 8523 data points with twelve features including price, and the type of
 
 ## Results
 
-#### Visual 1 Title
+#### Average sales by outlet
 ![sample image](sales_by_outlet.jpg)
 
 > Sentence about visualization.
 
-#### Visual 2 Title
+#### Average sales by item type
+![](sales_by_item_type.jpp)
 
 ## Model
 
