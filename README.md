@@ -27,7 +27,7 @@ There are 8523 data points with twelve features including price, and the type of
 
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
+![sample image](sales_by_outlet.png)
 
 > Sentence about visualization.
 
