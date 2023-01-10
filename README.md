@@ -26,7 +26,7 @@ There are 8523 data points with twelve features including price, and the type of
 #### Average sales by outlet
 ![](sales_by_outlet.jpg)
 
-> Sales from "Supermarket Type1" are significantly lower than sales from other outlets.
+> Sales from "Supermarket Type1" are significantly lower than sales from other outlets. (Say more about this. Why? Does the data explain differences in market types? Double check methods on this as well.)
 
 #### Average sales by item type
 ![](sales_by_item_type.jpg)
