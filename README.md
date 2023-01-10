@@ -3,7 +3,7 @@
 
 **Michael Vincent**: 
 
-### Business problem:
+### Business problem: (Move this to the top, and clean up the description.)
 
 Data was analyzed to see which outlets and products were generating the most sales. A machine learing model was constructed to predict the sales at an outlet based on aspects of the outlet and products sold.
 
